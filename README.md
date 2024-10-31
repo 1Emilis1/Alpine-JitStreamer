@@ -29,7 +29,7 @@ Now, open the UTM SE app and start the VM, wait for it to start up (takes a long
 
 Then copy the Server IP provided by Alpine-JitStreamer.
 
-Now install this [shortcut](https://www.icloud.com/shortcuts/7b44f6df4b324591a5498bb30b71cc6a) and follow the setup.
+Now install this [shortcut](https://www.icloud.com/shortcuts/ff544f25f69d425ba7705263a562c125) and follow the setup.
 Your UDID is the same as the file name of the plist file.
 
 # Finish
