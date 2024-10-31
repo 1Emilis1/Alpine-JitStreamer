@@ -19,6 +19,8 @@ Now rename the files extension from ".mobiledevicepairing" to ".plist", after yo
 
 Open UTM SE, go to Settings and select "Continue running VM in the background" and "Disable screen dimming when idle".
 
+Also make sure that you are on Wi-Fi and not on mobile data.
+
 # VM Setup
 
 Once you have downloaded the Alpine-JitStreamer.zip file, extract it. Then find copy the Alpine-JitStreamer file and search for an folder (make sure you are searching "On My iPhone") named: UTM SE, after you found that folder, paste the file.
