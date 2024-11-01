@@ -24,7 +24,7 @@ Also make sure that you are on Wi-Fi and not on mobile data.
 
 # VM Setup
 
-Once you have downloaded the Alpine-JitStreamer.zip file, extract it. Then find copy the Alpine-JitStreamer file and search for an folder (make sure you are searching "On My iPhone") named: UTM SE, after you found that folder, paste the file.
+Once you have downloaded the Alpine-JitStreamer.zip file, extract it. Then find copy the Alpine-JitStreamer file and search for a folder (make sure you are searching "On My iPhone") named: UTM SE, after you found that folder, paste the file.
 
 Now, open the UTM SE app and start the VM, wait for it to start up (takes a long time sadly), then enter the username: root, after you did this run the command: ./JitStreamer.sh , and then copy the link to login with tailscale, paste the link into a browser and login. Go back to UTM SE and it should say success!
 
