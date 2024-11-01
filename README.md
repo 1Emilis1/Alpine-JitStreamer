@@ -1,5 +1,6 @@
 # Alpine-JitStreamer
 Enable JIT, without a computer!
+Based on JitStreamer
 (PC is required for initial setup.)
 
 # Getting Ready
