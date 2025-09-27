@@ -1,5 +1,7 @@
 # Alpine-JitStreamer
 
+# This tool is no longer updated or supported by me, please use other tools for now.
+
 # WARNING Apple has disabled all ways to get JIT on iOS 18.4, so this and any other tools no longer work.
 
 Enable JIT, without a computer!
